@@ -1,0 +1,29 @@
+Live koobli.co
+
+CREATE USER 'koobli'@'localhost' IDENTIFIED BY '$k0obl15TafF$';
+GRANT ALL PRIVILEGES ON * . * TO 'koobli'@'localhost';
+
+root C#kR)mP8}-@V!8H2
+
+koobli TL7GyY5}:pu-c2Qd
+
+sudo certbot --nginx -d carebubble.co -d www.carebubble.co
+
+hwsrv-766011.hostwindsdns.com/pma
+
+database import
+mysql -u koobli -p api_threats < file.sql
+
+
+CREATE USER 'laravel'@'localhost' IDENTIFIED BY '61986198gG';
+
+
+UPDATE mysql.user SET password = PASSWORD('61986198gG') WHERE user = 'root';
+
+staging koobli.site
+
+KmrZhaqcy5c7yYqBp
+
+$k0obl15TafF$ live db
+
+git@bitbucket.org:koobli/api.git
